@@ -1,0 +1,33 @@
+{
+  "pages":[
+    "pages/Club/Club",
+    "pages/ClubDetail/ClubDetail",
+    "pages/ClubJoin/ClubJoin",
+    "pages/Activity/Activity",
+    "pages/ActivityDetail/ActivityDetail",
+    "pages/MySelf/MySelf",
+    "pages/MyClub/MyClub",
+    "pages/MyActivity/MyActivity",
+    "pages/MyInform/MyInform",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/Club/Club",
+      "text": "社团"
+    },{
+      "pagePath": "pages/Activity/Activity",
+      "text": "活动"
+    },{
+      "pagePath": "pages/MySelf/MySelf",
+      "text": "我的"
+    }]
+  }
+}

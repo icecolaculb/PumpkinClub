@@ -1,0 +1,4 @@
+//Myself.js
+Page({
+  
+})

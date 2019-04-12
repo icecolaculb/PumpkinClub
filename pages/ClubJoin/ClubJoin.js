@@ -1,0 +1,4 @@
+//ClubJoin.js
+Page({
+  
+})

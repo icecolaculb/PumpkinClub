@@ -1,0 +1,4 @@
+//ActivityDetail.js
+Page({
+  
+})

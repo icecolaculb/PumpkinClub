@@ -1,0 +1,4 @@
+//MyActivity.js
+Page({
+  
+})
