@@ -1,4 +1,3 @@
 //Myself.js
 Page({
-  
 })
