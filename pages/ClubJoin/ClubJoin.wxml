@@ -38,6 +38,6 @@
   </view>
   <view class='view_button'></view>
   <view>
-  <button class='btn_Join' >点击提交</button>
+  <button class='btn_Join' bindtap='btn_Join_Click'>点击提交</button>
   </view>
 </view>
