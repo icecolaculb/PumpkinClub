@@ -1,4 +1,0 @@
-//MyInform.js
-Page({
-  
-})

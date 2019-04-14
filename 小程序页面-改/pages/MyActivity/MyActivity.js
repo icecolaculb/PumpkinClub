@@ -1,4 +1,0 @@
-//MyActivity.js
-Page({
-  
-})

@@ -1,4 +1,0 @@
-//MyClub.js
-Page({
-  
-})
