@@ -1,20 +1,85 @@
 //Club.js
 Page({
   data: {
-    array: [{
-      mode: 'scaleToFill',
-      text: 'scaleToFill：不保持纵横比缩放图片，使图片完全适应'
-    }, {
-      mode: 'center',
-      text: 'center：不缩放图片，只显示图片的中间区域',
-    }],
-    src: '../../images/1.jpg',
     open: false,
     mark: 0,
     newmark: 0,
-    istoright: true
+    istoright: true,
+     Club: [
+      {
+        ClubName: "冰可乐",
+        ClubDetail: "冰可乐的简介",
+        src: "../../images/1.jpg",
+
+      },
+      {
+        ClubName: "社团A",
+        ClubDetail: "社团A的简介",
+        src: "../../images/1.jpg",
+
+      },
+      {
+        ClubName: "社团B",
+        ClubDetail: "社团B的简介",
+        src: "../../images/1.jpg",
+
+      },
+      {
+        ClubName: "社团C",
+        ClubDetail: "社团C的简介",
+        src: "../../images/1.jpg",
+
+      },
+      {
+        ClubName: "社团D",
+        ClubDetail: "社团D的简介",
+        src: "../../images/1.jpg",
+       },
+       {
+         ClubName: "社团E",
+         ClubDetail: "社团E的简介",
+         src: "../../images/1.jpg",
+       },
+       {
+         ClubName: "社团F",
+         ClubDetail: "社团F的简介",
+         src: "../../images/1.jpg",
+       },
+       {
+         ClubName: "社团G",
+         ClubDetail: "社团G的简介",
+         src: "../../images/1.jpg",
+       }
+    ],
+    College: [
+      {CollegeName: "全部社团"},
+      {CollegeName: "计算机学院"},
+      {CollegeName: "衡阳医学院" },
+      {CollegeName: "核科学技术学院",},
+      {CollegeName: "机械工程学院",},
+      {CollegeName: "设计艺术学院",},
+      {CollegeName: "化学化工学院",},
+      {CollegeName: "数理学院",},
+      {CollegeName: "语言文学学院",},
+      {CollegeName: "体育学院",},
+      {CollegeName: "船山学院",},
+      {CollegeName: "电气工程学院",},
+      {CollegeName: "资源环境与安全学院",},
+      {CollegeName: "土木工程学院",},
+      {CollegeName: "药学院",},
+      {CollegeName: "护理学院",},
+      {CollegeName: "经济管理与法学学院",},
+      {CollegeName: "马克思主义学院",},
+      {CollegeName: "国际学院",},
+      {CollegeName: "公共卫生学院",},
+      {CollegeName: "继续教育学院",},
+      {CollegeName: "国防科学技术学院",},
+      {CollegeName: "创新创业学院",},
+      {CollegeName: "建筑学院",}
+    ],
+
   },
-  click_ClubDetail: function () {
+  click_ToClubDetail: function () {
     wx.navigateTo({
       url: '../ClubDetail/ClubDetail',
     })//点击跳转
