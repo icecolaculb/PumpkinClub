@@ -43,6 +43,8 @@
     >院团委的管理页面
   * PM(persidential management)
     >社长的管理页面
+  * CreateClub
+    >创建社团
 * Image
   > 图片存放文件夹
 * utils
