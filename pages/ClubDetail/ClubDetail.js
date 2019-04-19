@@ -8,7 +8,7 @@ Page({
       mode: 'center',
       text: 'center：不缩放图片，只显示图片的中间区域',
     }],
-    src: '../../images/1.jpg'
+    src: '../../Images/1.jpg'
   },
   btn_Join_click: function () {
     wx.navigateTo({
