@@ -23,7 +23,7 @@
     >校团委同意创建社团、同意校级社团撤销消息列表
   * EAS(Examination and approval Society)
     >校团委同意创建社团、同意校级社团撤销、
-  * CRL(Compulsory revocation List)
+  * CRML(Compulsory revocation List)
     >(校团委)强制撤销校级社团列表
   * CR(Compulsory revocation)
     >(校团委)强制撤销校级社团
