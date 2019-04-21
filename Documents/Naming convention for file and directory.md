@@ -27,6 +27,8 @@
     >(校团委)强制撤销校级社团列表
   * CR(Compulsory revocation)
     >(校团委)强制撤销校级社团
+  * ACLCML(Approval College and League Committee Message List)
+    >（校团委）同意/拒绝院级团委账号申请消息列表
   * ACLC(Approval College and League Committee)
     >（校团委）同意/拒绝院级团委账号申请
   * DAA（deliver an announcement）
