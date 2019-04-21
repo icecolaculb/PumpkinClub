@@ -33,6 +33,8 @@
     >（校团委）同意/拒绝院级团委账号申请
   * DAA（deliver an announcement）
     >校团委、院团委、社长发布通知
+  * AEML(Apply to examine Message List)
+    >审核校级社团活动申请/审核院级社团活动申请/社团成员申请同意/拒绝消息列表
   * AE(Apply to examine)
     >审核校级社团活动申请/审核院级社团活动申请/社团成员申请同意/拒绝
   * PNS(Publish notification to subordinates)
