@@ -19,6 +19,8 @@
     > 社团详情
   * ClubJoin
     > 加入社团
+  * EASML(Examination and approval Society Message list)
+    >校团委同意创建社团、同意校级社团撤销消息列表
   * EAS(Examination and approval Society)
     >校团委同意创建社团、同意校级社团撤销、
   * CR(Compulsory revocation)
