@@ -1,21 +1,27 @@
 <!--ClubJoin.wxml-->
-<view>
+<view class='contain'>
+  <view class='photo'>
+      <view>
+          <image class='url' mode="{{item.mode}}" src="{{src}}" bindtap="gotoShow"></image>
+      </view>
+      <view><label >请选择一张寸照</label></view>
+  </view>
   <view class="weui-cell">
       <view class="weui-cell__hd"><label class="weui-label">姓名</label></view>
       <view class="weui-cell__bd">
-          <input class="weui-input" placeholder="请输入姓名" />
+          <input  class="weui-input" placeholder="姓名" />
       </view>
   </view>
   <view class="weui-cell">
       <view class="weui-cell__hd"><label class="weui-label">学号</label></view>
       <view class="weui-cell__bd">
-          <input class="weui-input" placeholder="请输入学号" />
+          <input class="weui-input" placeholder="学号" />
       </view>
   </view>
   <view class="weui-cell">
       <view class="weui-cell__hd"><label class="weui-label">qq</label></view>
       <view class="weui-cell__bd">
-          <input class="weui-input" type="number" pattern="[0-9]*" placeholder="请输入qq号" />
+          <input class="weui-input" type="number" pattern="[0-9]*" placeholder="qq" />
       </view>
   </view>
   <view class="weui-cell">
