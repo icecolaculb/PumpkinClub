@@ -17,7 +17,15 @@
     "pages/PM/PM",
     "pages/MCLC/MCLC",
     "pages/MSYLC/MSYLC",
-    "pages/PNS/PNS"
+    "pages/PNS/PNS",
+    "pages/EAS/EAS",
+    "pages/EASML/EASML",
+    "pages/CRML/CRML",
+    "pages/CR/CR",
+    "pages/ACLCML/ACLCML",
+    "pages/ACLC/ACLC",
+    "pages/AEML/AEML",
+    "pages/AE/AE"
   ],
   "window": {
     "backgroundTextStyle": "light",
