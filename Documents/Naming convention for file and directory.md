@@ -22,3 +22,28 @@
 * Images
   > 图片存放文件夹
 * utils
+=======
+# 南瓜社团
+## 文件命名
+* pages
+  * MySelf
+    > 我的
+  * MyClub
+    > 我加入的社团
+  * MyActivity
+    > 我的活动
+  * Mylnform
+    > 通知（“我的”的一部分）
+  * Activity
+    > 活动
+  * ActivityDetail
+    > 活动详情
+  * Club
+    > 社团
+  * ClubDetail
+    > 社团详情
+  * clubloin
+    > 加入社团
+* Images
+  > 图片存放文件夹
+* utils
