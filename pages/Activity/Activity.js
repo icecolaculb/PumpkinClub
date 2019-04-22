@@ -8,7 +8,7 @@ Page({
       mode: 'center',
       text: 'center：不缩放图片，只显示图片的中间区域',
     }],
-    src: '../../images/1.jpg',
+    src: '../../Images/1.jpg',
     open: false,
     mark: 0,
     newmark: 0,
@@ -17,46 +17,46 @@ Page({
       {
         ActivityName: "死命肝",
         ActivityDetail: "死命肝的简介",
-        src: "../../images/1.jpg",
+        src: "../../Images/1.jpg",
 
       },
       {
         ActivityName: "活动A",
         ActivityDetail: "活动A的简介",
-        src: "../../images/1.jpg",
+        src: "../../Images/1.jpg",
 
       },
       {
         ActivityName: "活动B",
         ActivityDetail: "活动B的简介",
-        src: "../../images/1.jpg",
+        src: "../../Images/1.jpg",
 
       },
       {
         ActivityName: "活动C",
         ActivityDetail: "活动C的简介",
-        src: "../../images/1.jpg",
+        src: "../../Images/1.jpg",
 
       },
       {
         ActivityName: "活动D",
         ActivityDetail: "活动D的简介",
-        src: "../../images/1.jpg",
+        src: "../../Images/1.jpg",
       },
       {
         ActivityName: "活动E",
         ActivityDetail: "活动E的简介",
-        src: "../../images/1.jpg",
+        src: "../../Images/1.jpg",
       },
       {
         ActivityName: "活动F",
         ActivityDetail: "活动F的简介",
-        src: "../../images/1.jpg",
+        src: "../../Images/1.jpg",
       },
       {
         ActivityName: "活动G",
         ActivityDetail: "活动G的简介",
-        src: "../../images/1.jpg",
+        src: "../../Images/1.jpg",
       }
     ],
   },

@@ -1,5 +1,5 @@
 {
-  "pages":[
+  "pages": [
     "pages/Club/Club",
     "pages/ClubDetail/ClubDetail",
     "pages/ClubJoin/ClubJoin",
@@ -10,24 +10,35 @@
     "pages/MyActivity/MyActivity",
     "pages/MyInform/MyInform",
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/Application/Application",
+    "pages/CreateClub/CreateClub",
+    "pages/EP/EP",
+    "pages/PM/PM",
+    "pages/MCLC/MCLC",
+    "pages/MSYLC/MSYLC",
+    "pages/PNS/PNS"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle":"black"
+    "navigationBarTextStyle": "black"
   },
   "tabBar": {
-    "list": [{
-      "pagePath": "pages/Club/Club",
-      "text": "社团"
-    },{
-      "pagePath": "pages/Activity/Activity",
-      "text": "活动"
-    },{
-      "pagePath": "pages/MySelf/MySelf",
-      "text": "我的"
-    }]
+    "list": [
+      {
+        "pagePath": "pages/Club/Club",
+        "text": "社团"
+      },
+      {
+        "pagePath": "pages/Activity/Activity",
+        "text": "活动"
+      },
+      {
+        "pagePath": "pages/MySelf/MySelf",
+        "text": "我的"
+      }
+    ]
   }
 }
